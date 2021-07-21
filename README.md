@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## (⊃｡•́‿•̀｡)⊃ > > > non zero exit code
+
 <!--
 **Racherin/Racherin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
